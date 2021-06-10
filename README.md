@@ -1,3 +1,3 @@
-# flask-tutorial
+# flask-tut-mysql-bootstrap
 
-## Flask 2 tutorial from official documentation
+## Flask 2 tutorial using MySQL and Bootstrap
